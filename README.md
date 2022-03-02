@@ -1,4 +1,4 @@
-### The concepts of Multivariate Regression and Gradient Boosting description: It descripes the analysis and gives intution for Multivariate Regression and Gradient Boosting
+### The concepts of Multivariate Regression and Gradient Boosting description: It describes the analysis and gives intution for Multivariate Regression and Gradient Boosting
 
 
 1.  **What is XGBoost?**  
